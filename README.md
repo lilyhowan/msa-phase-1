@@ -1,2 +1,2 @@
 # msa-project
-Project for Microsoft Student Accelerator Intro to General Software Development
+Project for Microsoft Student Accelerator Introduction to General Software Development
