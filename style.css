@@ -42,6 +42,12 @@ table, td {
     float: left;
   }
 
+#main-div {
+  margin: auto;
+  text-align: center;
+}
+
+
 @media only screen and (max-width: 800px) {
     body {
       background-color: forestgreen;
